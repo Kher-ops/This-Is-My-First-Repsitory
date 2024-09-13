@@ -1,1 +1,1 @@
-# This-Is-My-First-Repsitory
+# This-Is-My-First-Repository
